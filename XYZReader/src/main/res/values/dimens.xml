@@ -1,0 +1,23 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="list_appbar_size">112dp</dimen>
+    <dimen name="elevation_appbar">8dp</dimen>
+    <dimen name="cardview_margin">4dp</dimen>
+    <dimen name="title_padding">8dp</dimen>
+    <dimen name="image_button_width">56dp</dimen>
+    <dimen name="collapsing_margin_start">8dp</dimen>
+    <dimen name="collapsing_margin_end">64dp</dimen>
+    <dimen name="image_max_height">300dp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="land_toolbar_height">70dp</dimen>
+    <dimen name="land_body_margin">8dp</dimen>
+    <dimen name="land_body_bottom_padding">30dp</dimen>
+
+</resources>
